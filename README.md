@@ -45,7 +45,7 @@ operational recommendations.
 
 ## Key Findings
 
-- **SLA Performance:** High priority breach rate — **18%** (1 143 incidents).
+- **SLA Performance:** High priority breach rate – **18%** (1 143 incidents).
   Medium and Low priority incidents rarely breach SLA (0.5% and 0%).
 - **Escalation Impact:** 59.6% of all incidents were escalated. Escalated incidents
   demonstrate **51%** longer resolution time (11.5h → 17.4h), confirmed statistically.
@@ -53,8 +53,8 @@ operational recommendations.
   **+58%** longer to resolve (23.3h vs 14.7h).
 - **Workload:** Local peaks during night hours (00:00–02:00), including weekends,
   indicate a need for 24/7 staffing coverage.
-- **Issue Type:** Bug incidents take the longest to resolve — **16.0h**,
-  followed by Performance Issues — **15.2h**.
+- **Issue Type:** Bug incidents take the longest to resolve – **16.0h**,
+  followed by Performance Issues – **15.2h**.
 - **Report Channel:** The email channel shows the highest SLA breach rate among
   High priority incidents (18.4%), while the App channel performs best (14.3%).
 - **Customer Satisfaction:** Resolution time has minimal impact on CSAT
@@ -70,6 +70,8 @@ operational recommendations.
 ![Workload Heatmap](images/workload_heatmap.png)
 
 ## Project Structure
+
+```text
 repository/
 ├── README.md
 ├── notebooks/
@@ -78,8 +80,9 @@ repository/
 │   └── README.md
 ├── images/
 │   └── *.png
-└── presentation/
-    └── operational_efficiency_presentation.pdf
+├── presentation/
+│   └── operational_efficiency_presentation.pdf
+```
 
 ## Presentation
 
