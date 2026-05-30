@@ -16,6 +16,10 @@ The full interactive version of this project is available here:
 
 🌐 [Interactive Notebook](https://dariia-chornous.github.io/operational-efficiency-analysis/html/operational_efficiency_analysis.html)
 
+If the notebook preview is not displayed correctly on GitHub, you can also view it via NBViewer:
+
+🔗 [Open Notebook in NBViewer](https://nbviewer.org/github/dariia-chornous/operational-efficiency-analysis/blob/main/notebooks/operational_efficiency_analysis.ipynb)
+
 ## Dataset
 
 - **Source:** [Kaggle — Process Mining Event Log – Incident Management](https://www.kaggle.com/datasets/albertopmd/process-mining-event-log-incident-management)
