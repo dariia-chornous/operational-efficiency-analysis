@@ -55,7 +55,7 @@ operational recommendations.
   indicate a need for 24/7 staffing coverage.
 - **Issue Type:** Bug incidents take the longest to resolve — **16.0h**,
   followed by Performance Issues — **15.2h**.
-  - **Report Channel:** The email channel shows the highest SLA breach rate among
+- **Report Channel:** The email channel shows the highest SLA breach rate among
   High priority incidents (18.4%), while the App channel performs best (14.3%).
 - **Customer Satisfaction:** Resolution time has minimal impact on CSAT
   (r = –0.03). Customer satisfaction is likely driven by communication quality
@@ -79,7 +79,7 @@ repository/
 ├── images/
 │   └── *.png
 └── presentation/
-└── operational_efficiency_presentation.pdf
+    └── operational_efficiency_presentation.pdf
 
 ## Presentation
 
