@@ -64,9 +64,13 @@ operational recommendations.
 ## Key Visualizations
 
 ![Resolution Time vs SLA](images/resolution_time_sla.png)
+
 ![SLA Breach Rate](images/sla_breach_rate.png)
+
 ![Escalation Impact](images/escalation_impact.png)
+
 ![Report Channel Bubble Chart](images/report_channel_bubble.png)
+
 ![Workload Heatmap](images/workload_heatmap.png)
 
 ## Project Structure
