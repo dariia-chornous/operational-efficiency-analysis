@@ -14,8 +14,7 @@ GitHub may not correctly render Jupyter notebooks with interactive Plotly visual
 
 The full interactive version of this project is available here:
 
-🌐 Interactive Notebook:
-https://dariia-chornous.github.io/operational-efficiency-analysis/html/operational_efficiency_analysis.html
+🌐 [Interactive Notebook](https://dariia-chornous.github.io/operational-efficiency-analysis/html/operational_efficiency_analysis.html)
 
 ## Dataset
 
