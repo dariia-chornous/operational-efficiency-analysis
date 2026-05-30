@@ -8,6 +8,15 @@ process data. The project investigates incident workflows, SLA compliance,
 escalation patterns, and process inefficiencies to provide data-driven 
 operational recommendations.
 
+## Interactive Version
+
+GitHub may not correctly render Jupyter notebooks with interactive Plotly visualizations.
+
+The full interactive version of this project is available here:
+
+🌐 Interactive Notebook:
+https://dariia-chornous.github.io/operational-efficiency-analysis/html/operational_efficiency_analysis.html
+
 ## Dataset
 
 - **Source:** [Kaggle — Process Mining Event Log – Incident Management](https://www.kaggle.com/datasets/albertopmd/process-mining-event-log-incident-management)
@@ -80,6 +89,8 @@ repository/
 ├── README.md
 ├── notebooks/
 │   └── operational_efficiency_analysis.ipynb
+├── html/
+│   └── operational_efficiency_analysis.html
 ├── data/
 │   └── README.md
 ├── images/
