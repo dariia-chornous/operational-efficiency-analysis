@@ -11,7 +11,7 @@ operational recommendations.
 ## Dataset
 
 - **Source:** [Kaggle — Process Mining Event Log – Incident Management](https://www.kaggle.com/datasets/albertopmd/process-mining-event-log-incident-management)
-- **Size:** 31,588 unique incidents · 242,901 workflow events
+- **Size:** 31 588 unique incidents · 242 901 workflow events
 - **Format:** CSV (semicolon-separated)
 
 ## Tools & Technologies
@@ -46,9 +46,9 @@ operational recommendations.
 ## Key Findings
 
 - **SLA Performance:** High priority breach rate – **18%** (1 143 incidents).
-  Medium and Low priority incidents rarely breach SLA (0.5% and 0%).
-- **Escalation Impact:** 59.6% of all incidents were escalated. Escalated incidents
-  demonstrate **51%** longer resolution time (11.5h → 17.4h), confirmed statistically.
+  Medium and Low priority incidents rarely breach SLA (0,5% and 0%).
+- **Escalation Impact:** 59,6% of all incidents were escalated. Escalated incidents
+  demonstrate **51%** longer resolution time (11,5 h → 17,4 h), confirmed statistically.
 - **Reopened Incidents:** 3.8% of incidents are reopened by customers and take
   **+58%** longer to resolve (23.3h vs 14.7h).
 - **Workload:** Local peaks during night hours (00:00–02:00), including weekends,
