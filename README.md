@@ -22,7 +22,7 @@ If the notebook preview is not displayed correctly on GitHub, you can also view 
 
 ## Dataset
 
-- **Source:** [Kaggle — Process Mining Event Log – Incident Management](https://www.kaggle.com/datasets/albertopmd/process-mining-event-log-incident-management)
+- **Source:** [Kaggle – Process Mining Event Log – Incident Management](https://www.kaggle.com/datasets/albertopmd/process-mining-event-log-incident-management)
 - **Size:** 31 588 unique incidents · 242 901 workflow events
 - **Format:** CSV (semicolon-separated)
 
@@ -32,7 +32,7 @@ If the notebook preview is not displayed correctly on GitHub, you can also view 
 |---|---|
 | Python / Pandas / Plotly | Data processing, feature engineering, analysis, interactive visualizations |
 | BigQuery / SQL | Centralized data storage, business queries, aggregations |
-| Statistical Testing | Hypothesis testing and relationship analysis — t-test, Pearson correlation analysis |
+| Statistical Testing | Hypothesis testing and relationship analysis – t-test, Pearson correlation analysis |
 
 ## Business Questions
 
