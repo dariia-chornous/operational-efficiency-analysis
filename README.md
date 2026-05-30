@@ -99,6 +99,7 @@ repository/
 ├── images/
 │   └── *.png
 ├── presentation/
+│   ├── README.md
 │   └── operational_efficiency_presentation.pdf
 ```
 
