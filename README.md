@@ -49,14 +49,14 @@ operational recommendations.
   Medium and Low priority incidents rarely breach SLA (0,5% and 0%).
 - **Escalation Impact:** 59,6% of all incidents were escalated. Escalated incidents
   demonstrate **51%** longer resolution time (11,5 h → 17,4 h), confirmed statistically.
-- **Reopened Incidents:** 3.8% of incidents are reopened by customers and take
-  **+58%** longer to resolve (23.3h vs 14.7h).
+- **Reopened Incidents:** 3,8% of incidents are reopened by customers and take
+  **+58%** longer to resolve (23,3 h vs 14,7 h).
 - **Workload:** Local peaks during night hours (00:00–02:00), including weekends,
   indicate a need for 24/7 staffing coverage.
-- **Issue Type:** Bug incidents take the longest to resolve – **16.0h**,
-  followed by Performance Issues – **15.2h**.
+- **Issue Type:** Bug incidents take the longest to resolve – **16,0 h**,
+  followed by Performance Issues – **15,2 h**.
 - **Report Channel:** The email channel shows the highest SLA breach rate among
-  High priority incidents (18.4%), while the App channel performs best (14.3%).
+  High priority incidents (18,4%), while the App channel performs best (14,3%).
 - **Customer Satisfaction:** Resolution time has minimal impact on CSAT
   (r = –0.03). Customer satisfaction is likely driven by communication quality
   and incident complexity rather than speed of resolution.
