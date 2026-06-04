@@ -90,6 +90,7 @@ If the notebook preview is not displayed correctly on GitHub, you can also view 
 ```text
 repository/
 ├── README.md
+├── .gitignore
 ├── notebooks/
 │   └── operational_efficiency_analysis.ipynb
 ├── html/
