@@ -1,0 +1,25 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Google Cloud credentials
+credentials.json
+service_account.json
+service-account*.json
+gcp-key*.json
+
+# Data files (local only)
+data/*.csv
+data/*.xlsx
+
+# Environment
+.env
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
